@@ -17,3 +17,5 @@
 # decir basta, luego que devuelva la suma de los numeros ingresados
 
 # Ejercicio 9 - Escribir una funcion que recibe nombre y apellido y los vaya agregando a un archivo
+
+# Ejercicio 10 - Escribir una funcion que recibe una palabra y comprueba si es un palindromo
